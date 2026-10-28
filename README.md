@@ -129,7 +129,3 @@ app/src/main/res/drawable/          # 本地矢量线性图标
 - 相册图片导入后会缩放并复制到应用私有目录 `files/item_images/`，原图不会被修改。
 - 应用不申请网络权限，不上传任何内容。
 - 卸载应用会删除应用内数据；如需长期保存，请自行备份。
-
-## 说明
-
-这是独立设计与实现，并非 OPPO / ColorOS 官方应用，也不包含任何《原神》或米哈游的美术资源。界面以「ColorOS 17 风格」为设计方向进行原创演绎，物品图标使用 Lucide 线性图标库（ISC / MIT），详见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
